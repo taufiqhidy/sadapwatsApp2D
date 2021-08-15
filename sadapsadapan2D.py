@@ -11,7 +11,7 @@ then
 \033[1;97m╭──[Silahkan Masukan Nomernya]>"
 read -p"  ╰───────root@MILZU-TC=▪> Milzu;
 sleep 2
-print ("""\033[1;97m [+]Scaning....
+print("""\033[1;97m [+]Scaning....
 sleep 8
 \033[1;97m10%
 sleep 7
